@@ -14,7 +14,7 @@ This project is a robust, simple transaction system built for enterprise product
 * **Language:** Java 17+
 * **Framework:** Spring Boot 3.x
 * **Data Access:** Spring Data JPA / Hibernate
-* **Database:** H2 Database (In-Memory for easy testing) / PostgreSQL
+* **Database:** PostgreSQL
 * **Validation:** Spring Boot Starter Validation
 * **External Calls:** Spring `RestClient` / `WebClient`
 
